@@ -42,46 +42,25 @@ Let's connect and collaborate! 😊
 
 
 
-![Nor Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kibumh&show_icons=true&count_private=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kibumh&layout=compact&theme=dark)
+## Skills
+
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scientific Methodology](https://img.shields.io/badge/-Scientific%20Methodology-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/-R-3776AB?style=for-the-badge&logo=r&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-3776AB?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Experience
+
+![FinanZero](https://img.shields.io/badge/-FinanZero-555555?style=for-the-badge)
+![IBM Watson Assistant](https://img.shields.io/badge/-IBM%20Watson%20Assistant-555555?style=for-the-badge)
+![API](https://img.shields.io/badge/-API-555555?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/-Swagger-555555?style=for-the-badge)
 
 
 
-
-
-
-## Kibum Stacks and Stats
-
-[![Nor Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nor-mustafa&show_icons=true&theme=radical)](https://github.com/nor-mustafa)
-
-### Skills
-
-- Python programming
-- Data analysis
-- Scientific methodology
-- Java (basic)
-- R (basic)
-- CSS (basic)
-- JavaScript (basic)
-- Office package
-- MongoDB (learning)
-
-### Education
-
-- Bachelor's Degree in Science and Technology and Neuroscience, Federal University of ABC
-  - Currently in the 10th four-month period
-  - Completed compulsory subjects for the Bachelor's Degree in Science and Technology
-
-### Experience
-
-- Intern at FinanZero (April 2022 - Present)
-  - Working on improving the chatbot powered by IBM Watson Assistant
-  - Building the calculator API
-  - Documenting APIs using Swagger
-
-### Contact
-
-You can reach me via email at [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nor.mustafa.mohamad@email.com).
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nor-mustafa) as well.
 
