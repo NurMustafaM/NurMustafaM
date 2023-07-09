@@ -1,6 +1,6 @@
 # 👋 Nor Mustafa Mohamad
 
-Hello, I'm Nor, it pronunce as Nur, a student pursuing an interdisciplinary bachelor's degree in science and technology neuroscience and Science Computer at the Federal University of ABC. I am passionate about the interdisciplinarity of human knowledge and enjoy learning new tools for data analysis with programming any language.
+Hello, I'm Nor, pronounced as Nur, a student pursuing an interdisciplinary bachelor's degree in science and technology neuroscience and Science Computer at the Federal University of ABC. I am passionate about the interdisciplinarity of human knowledge and enjoy learning new tools for data analysis with programming any language.
 
 ## 🎓 Education
 
