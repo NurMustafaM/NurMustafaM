@@ -20,7 +20,7 @@ I have expertise in data analysis, scientific methodology, and Python programmin
 ![Swagger](https://img.shields.io/badge/-Swagger-555555?style=for-the-badge)
 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://javascript.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)](https://insomnia.rest)
@@ -35,7 +35,7 @@ I have expertise in data analysis, scientific methodology, and Python programmin
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nor.mustafa.mohamad@email.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nor-mustafa) 
@@ -43,7 +43,7 @@ I have expertise in data analysis, scientific methodology, and Python programmin
 Let's connect and collaborate! 😊
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=NurMustafaM&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                	<img src="https://github-readme-streak-stats.herokuapp.com/?user=NurMustafaM&theme=neon&hide_border=false"  width="400px" />
 
