@@ -32,7 +32,7 @@ I have expertise in data analysis, scientific methodology, and Python programmin
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)](https://insomnia.rest)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io)
 
 
 
