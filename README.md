@@ -35,7 +35,6 @@ Let's connect and collaborate! 😊
 ---
 
 
-
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](#)
@@ -47,19 +46,4 @@ Let's connect and collaborate! 😊
 [![English](https://img.shields.io/badge/-English-21759B?style=flat&logoColor=white)](#)
 
 
-
-
-## Skills
-
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scientific Methodology](https://img.shields.io/badge/-Scientific%20Methodology-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/-R-3776AB?style=for-the-badge&logo=r&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-3776AB?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurMustafaM&layout=compact)](https://github.com/NurMustafaM)
