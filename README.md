@@ -21,26 +21,30 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-555555?style=for-the-badge)
 
 
-## Contact
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)](#)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=blue)](#)
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 
-📫 You can reach me via email at 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nor.mustafa.mohamad@email.com). Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nor-mustafa) as well.
+
+# 🌐 Socials:
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nor.mustafa.mohamad@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nor-mustafa) 
 
 Let's connect and collaborate! 😊
 
 ---
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=blue)](#)
-[![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#)
 
-[![Portuguese](https://img.shields.io/badge/-Portuguese-FF4500?style=flat&logoColor=white)](#)
-[![English](https://img.shields.io/badge/-English-21759B?style=flat&logoColor=white)](#)
-
-
+# 📊 GitHub Stats:
 
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=NurMustafaM&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                	<img src="https://github-readme-streak-stats.herokuapp.com/?user=NurMustafaM&theme=neon&hide_border=false"  width="400px" />
 
