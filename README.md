@@ -22,16 +22,18 @@
 
 # 💻 Tech Stack
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="120" height="20">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="120" height="20">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" width="120" height="20">
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" width="120" height="20">
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" width="120" height="20">
-<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" width="120" height="20">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="120" height="20">
-<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=blue" width="120" height="20">
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" width="120" height="20">
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" width="120" height="20">
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E){: width="90" height="20"}
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white){: width="90" height="20"}
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow){: width="90" height="20"}
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white){: width="90" height="20"}
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white){: width="90" height="20"}
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white){: width="90" height="20"}
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white){: width="90" height="20"}
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=blue){: width="90" height="20"}
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white){: width="90" height="20"}
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white){: width="90" height="20"}
+
 
 
 
