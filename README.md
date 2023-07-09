@@ -19,6 +19,12 @@
 
 👩‍💻 Since April 4th, 2022, I have been working as an intern at FinanZero, a startup. In this role, I am focused on improving the chatbot powered by IBM Watson Assistant, in addition to building the calculator API. It was part of my learning in JS, and to complement it, I am aiming to document APIs using Swagger.
 
+![FinanZero](https://img.shields.io/badge/-FinanZero-555555?style=for-the-badge)
+![IBM Watson Assistant](https://img.shields.io/badge/-IBM%20Watson%20Assistant-555555?style=for-the-badge)
+![API](https://img.shields.io/badge/-API-555555?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/-Swagger-555555?style=for-the-badge)
+
+
 ## Contact
 
 📫 You can reach me via email at 
@@ -53,13 +59,6 @@ Let's connect and collaborate! 😊
 ![CSS](https://img.shields.io/badge/-CSS-3776AB?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## Experience
-
-![FinanZero](https://img.shields.io/badge/-FinanZero-555555?style=for-the-badge)
-![IBM Watson Assistant](https://img.shields.io/badge/-IBM%20Watson%20Assistant-555555?style=for-the-badge)
-![API](https://img.shields.io/badge/-API-555555?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/-Swagger-555555?style=for-the-badge)
 
 
 
