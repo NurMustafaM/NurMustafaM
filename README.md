@@ -1,6 +1,6 @@
-# Nor Mustafa
+# Nor Mustafa Mohamad
 
-👋 Hello, I'm Nor Mustafa, a student pursuing an interdisciplinary bachelor's degree in science and technology and neuroscience at the Federal University of ABC. I am passionate about the interdisciplinarity of human knowledge and enjoy learning new tools for data analysis with programming any language.
+👋 Hello, I'm Nor, it pronunce as Nur, a student pursuing an interdisciplinary bachelor's degree in science and technology and neuroscience at the Federal University of ABC. I am passionate about the interdisciplinarity of human knowledge and enjoy learning new tools for data analysis with programming any language.
 
 ## Education
 
@@ -45,4 +45,6 @@ Let's connect and collaborate! 😊
 [![Portuguese](https://img.shields.io/badge/-Portuguese-FF4500?style=flat&logoColor=white)](#)
 [![English](https://img.shields.io/badge/-English-21759B?style=flat&logoColor=white)](#)
 
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?NurMustafaM=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurMustafaM&layout=compact&theme=radical)](https://github.com/NurMustafaM)
