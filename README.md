@@ -1,6 +1,6 @@
-# Nor Mustafa Mohamad
+# 👋 Nor Mustafa Mohamad
 
-👋 Hello, I'm Nor, it pronunce as Nur, a student pursuing an interdisciplinary bachelor's degree in science and technology neuroscience and Science Computer at the Federal University of ABC. I am passionate about the interdisciplinarity of human knowledge and enjoy learning new tools for data analysis with programming any language.
+Hello, I'm Nor, it pronunce as Nur, a student pursuing an interdisciplinary bachelor's degree in science and technology neuroscience and Science Computer at the Federal University of ABC. I am passionate about the interdisciplinarity of human knowledge and enjoy learning new tools for data analysis with programming any language.
 
 ## 🎓 Education
 
@@ -41,8 +41,6 @@ I have expertise in data analysis, scientific methodology, and Python programmin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nor-mustafa) 
 
 Let's connect and collaborate! 😊
-
----
 
 
 # 📊 GitHub Stats:
