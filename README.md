@@ -27,9 +27,6 @@ Let's connect and collaborate! 😊
 
 ---
 
-[![Nor Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibum0622&show_icons=true&theme=radical)](https://github.com/kibum0622)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibum0622&layout=compact&theme=radical)](https://github.com/kibum0622)
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
