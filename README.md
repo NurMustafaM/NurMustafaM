@@ -35,8 +35,8 @@ Let's connect and collaborate! 😊
 ---
 
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)](#)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=blue)](#)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
@@ -45,7 +45,5 @@ Let's connect and collaborate! 😊
 [![Portuguese](https://img.shields.io/badge/-Portuguese-FF4500?style=flat&logoColor=white)](#)
 [![English](https://img.shields.io/badge/-English-21759B?style=flat&logoColor=white)](#)
 
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=black)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurMustafaM&layout=compact&theme=radical)](https://github.com/NurMustafaM)
