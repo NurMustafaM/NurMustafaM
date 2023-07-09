@@ -23,18 +23,17 @@
 # 💻 Tech Stack
 
 # 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E){: width="90" height="20"}
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white){: width="90" height="20"}
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow){: width="90" height="20"}
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white){: width="90" height="20"}
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white){: width="90" height="20"}
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white){: width="90" height="20"}
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white){: width="90" height="20"}
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=blue){: width="90" height="20"}
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white){: width="90" height="20"}
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white){: width="90" height="20"}
-
-
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://javascript.com)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)](https://python.org)
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)](https://jira.com)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://notion.so)
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)](https://trello.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://postman.com)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=blue)](https://java.com)
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)](https://insomnia.rest)
 
 
 # 🌐 Socials:
