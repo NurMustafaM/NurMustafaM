@@ -28,6 +28,7 @@ Let's connect and collaborate! 😊
 ---
 
 
+
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](#)
@@ -39,3 +40,60 @@ Let's connect and collaborate! 😊
 [![English](https://img.shields.io/badge/-English-21759B?style=flat&logoColor=white)](#)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Nor Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kibumh&show_icons=true&count_private=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kibumh&layout=compact&theme=dark)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nor-mustafa)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nor.mustafa.mohamad@email.com)
