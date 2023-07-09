@@ -40,25 +40,5 @@ Let's connect and collaborate! 😊
 
 [![Portuguese](https://img.shields.io/badge/-Portuguese-FF4500?style=flat&logoColor=white)](#)
 [![English](https://img.shields.io/badge/-English-21759B?style=flat&logoColor=white)](#)
-[![Arabic](https://img.shields.io/badge/-Arabic-000000?style=flat&logoColor=white)](#)
 
-
-
-
-
-
-
-
-[![Nor Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorMustafa&show_icons=true&theme=kibum)](https://github.com/NorMustafa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorMustafa&layout=compact&theme=kibum)](https://github.com/NorMustafa)
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Office](https://img.shields.io/badge/-Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en/microsoft-365)
-[![Portuguese](https://img.shields.io/badge/-Portuguese-009ACD?style=flat)](https://en.wikipedia.org/wiki/Portuguese_language)
-[![English](https://img.shields.io/badge/-English-21759B?style=flat)](https://en.wikipedia.org/wiki/English_language)
-[![Arabic](https://img.shields.io/badge/-Arabic-6495ED?style=flat)](https://en.wikipedia.org/wiki/Arabic)
 
