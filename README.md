@@ -46,6 +46,6 @@ Let's connect and collaborate! 😊
 [![English](https://img.shields.io/badge/-English-21759B?style=flat&logoColor=white)](#)
 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=black)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurMustafaM&layout=compact&theme=radical)](https://github.com/NurMustafaM)
