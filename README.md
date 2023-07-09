@@ -41,6 +41,9 @@ Let's connect and collaborate! 😊
 [![English](https://img.shields.io/badge/-English-21759B?style=flat&logoColor=white)](#)
 
 
+
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=NurMustafaM&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                	<img src="https://github-readme-streak-stats.herokuapp.com/?user=NurMustafaM&theme=neon&hide_border=false"  width="400px" />
+
+
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=NurMustafaM&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurMustafaM&layout=compact&theme=radical)](https://github.com/NurMustafaM)
