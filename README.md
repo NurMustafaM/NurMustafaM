@@ -2,16 +2,15 @@
 
 👋 Hello, I'm Nor, it pronunce as Nur, a student pursuing an interdisciplinary bachelor's degree in science and technology neuroscience and Science Computer at the Federal University of ABC. I am passionate about the interdisciplinarity of human knowledge and enjoy learning new tools for data analysis with programming any language.
 
-## Education
+## 🎓 Education
 
-🎓 Bachelor's Degree in Science and Technology and Neuroscience for Science Computer, Federal University of ABC
+ Bachelor's Degree in Science and Technology and Neuroscience for Science Computer, Federal University of ABC
 
 
-## Skills
+## 💻 Skills
 
-💻 I have expertise in data analysis, scientific methodology, and Python programming. I enjoy working with data and extracting insights from it. Additionally, I have a basic knowledge of Java, R, CSS, JavaScript programming languages. I also have proficiency in using the Office package for various tasks and learning about MongoDB.
+I have expertise in data analysis, scientific methodology, and Python programming. I enjoy working with data and extracting insights from it. Additionally, I have a basic knowledge of Java, R, CSS, JavaScript programming languages. I also have proficiency in using the Office package for various tasks and learning about MongoDB.
 
-🌐 I am fluent in Portuguese and English, with proficient reading, understanding, writing, and speaking skills in both languages.
 
 ## Experience
 
@@ -20,7 +19,6 @@
 ![API](https://img.shields.io/badge/-API-555555?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/-Swagger-555555?style=for-the-badge)
 
-# 💻 Tech Stack
 
 # 💻 Tech Stack
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://javascript.com)
