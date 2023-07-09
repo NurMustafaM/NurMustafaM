@@ -12,7 +12,7 @@
 I have expertise in data analysis, scientific methodology, and Python programming. I enjoy working with data and extracting insights from it. Additionally, I have a basic knowledge of Java, R, CSS, JavaScript programming languages. I also have proficiency in using the Office package for various tasks and learning about MongoDB.
 
 
-## Experience
+## Work experience
 
 ![FinanZero](https://img.shields.io/badge/-FinanZero-555555?style=for-the-badge)
 ![IBM Watson Assistant](https://img.shields.io/badge/-IBM%20Watson%20Assistant-555555?style=for-the-badge)
@@ -32,6 +32,8 @@ I have expertise in data analysis, scientific methodology, and Python programmin
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)](https://insomnia.rest)
+![Swagger](https://img.shields.io/badge/Swagger-%23Clojure-85EA2D?style=flat&logo=swagger&logoColor=black&logoWidth=20)
+
 
 
 # 🌐 Socials:
