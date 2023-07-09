@@ -45,5 +45,4 @@ Let's connect and collaborate! 😊
 [![Portuguese](https://img.shields.io/badge/-Portuguese-FF4500?style=flat&logoColor=white)](#)
 [![English](https://img.shields.io/badge/-English-21759B?style=flat&logoColor=white)](#)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurMustafaM&layout=compact)](https://github.com/NurMustafaM)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurMustafaM&layout=compact&theme=radical)](https://github.com/NurMustafaM)
