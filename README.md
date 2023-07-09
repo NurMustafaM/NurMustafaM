@@ -21,7 +21,8 @@
 
 ## Contact
 
-📫 You can reach me via email at nor.mustafa.mohamad@email.com. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nor-mustafa) as well.
+📫 You can reach me via email at 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nor.mustafa.mohamad@email.com). Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nor-mustafa) as well.
 
 Let's connect and collaborate! 😊
 
@@ -41,59 +42,46 @@ Let's connect and collaborate! 😊
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![Nor Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kibumh&show_icons=true&count_private=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kibumh&layout=compact&theme=dark)
 
----
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nor-mustafa)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nor.mustafa.mohamad@email.com)
+
+
+
+
+## Kibum Stacks and Stats
+
+[![Nor Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nor-mustafa&show_icons=true&theme=radical)](https://github.com/nor-mustafa)
+
+### Skills
+
+- Python programming
+- Data analysis
+- Scientific methodology
+- Java (basic)
+- R (basic)
+- CSS (basic)
+- JavaScript (basic)
+- Office package
+- MongoDB (learning)
+
+### Education
+
+- Bachelor's Degree in Science and Technology and Neuroscience, Federal University of ABC
+  - Currently in the 10th four-month period
+  - Completed compulsory subjects for the Bachelor's Degree in Science and Technology
+
+### Experience
+
+- Intern at FinanZero (April 2022 - Present)
+  - Working on improving the chatbot powered by IBM Watson Assistant
+  - Building the calculator API
+  - Documenting APIs using Swagger
+
+### Contact
+
+You can reach me via email at [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nor.mustafa.mohamad@email.com).
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nor-mustafa) as well.
+
