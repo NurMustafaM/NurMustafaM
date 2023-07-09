@@ -23,15 +23,15 @@
 
 # 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)]
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)]
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=blue)](#)
-[![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=blue)]
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)]
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)]
 
 
 # 🌐 Socials:
