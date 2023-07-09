@@ -46,5 +46,5 @@ Let's connect and collaborate! 😊
 [![English](https://img.shields.io/badge/-English-21759B?style=flat&logoColor=white)](#)
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?NurMustafaM=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?https://github.com/NurMustafaM=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurMustafaM&layout=compact&theme=radical)](https://github.com/NurMustafaM)
