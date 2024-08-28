@@ -1,16 +1,15 @@
 # 👋 Nor Mustafa Mohamad
 
-Hello, I'm Nor, pronounced as Nur, a student pursuing an interdisciplinary bachelor's degree in science and technology neuroscience and Science Computer at the Federal University of ABC. I am passionate about the interdisciplinarity of human knowledge and enjoy learning new tools for data analysis with programming any language.
+Hello, I'm Nor, pronounced as Nur, Bachelor of Science and Technology from UFABC, currently pursuing an interdisciplinary specialization in Neuroscience. I am seeking opportunities in data analysis, software development, and information technology. I have skills in Python, Power BI, and agile methodologies, with experience in exploratory data analysis, data visualization, and back-end development in JavaScript. I am enthusiastic about contributing my technical expertise and analytical vision to drive the success of challenging and innovative projects. I am passionate about the interdisciplinarity of human knowledge and enjoy learning new tools for data analysis with programming any language.
 
 ## 🎓 Education
 
- Bachelor's Degree in Science and Technology and Neuroscience for Science Computer, Federal University of ABC
+ Bachelor's Degree in Science and Technology and Neuroscience, Federal University of ABC
 
 
 ## 💻 Skills
 
 I have expertise in data analysis, scientific methodology, and Python programming. I enjoy working with data and extracting insights from it. Additionally, I have a basic knowledge of Java, R, CSS, JavaScript programming languages. I also have proficiency in using the Office package for various tasks and learning about MongoDB.
-
 
 ## 👩‍💻 Work experience
 
@@ -18,7 +17,7 @@ I have expertise in data analysis, scientific methodology, and Python programmin
 ![IBM Watson Assistant](https://img.shields.io/badge/-IBM%20Watson%20Assistant-555555?style=for-the-badge)
 ![API](https://img.shields.io/badge/-API-555555?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/-Swagger-555555?style=for-the-badge)
-
+![Accenture](https://img.shields.io/badge/-Accenture-555555?style=for-the-badge)
 
 ## 💻 Tech Stack
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://javascript.com)
@@ -33,11 +32,13 @@ I have expertise in data analysis, scientific methodology, and Python programmin
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=blue)](https://java.com)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%230072C6.svg?style=flat&logo=data-analysis&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)](https://powerbi.microsoft.com)
+
 
 
 ## 🌐 Socials:
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nor.mustafa.mohamad@email.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nor-mustafa) 
 
 Let's connect and collaborate! 😊
